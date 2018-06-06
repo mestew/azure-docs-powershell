@@ -166,7 +166,7 @@ Accept wildcard characters: False
 Tenant name or ID
 
 ```yaml
-Type: String
+Type: Microsoft.Azure.Commands.AnalysisServices.Dataplane.AsAzureProfile
 Parameter Sets: ServicePrincipalWithPasswordParameterSetName, ServicePrincipalWithCertificateParameterSetName
 Aliases: 
 
@@ -181,7 +181,7 @@ Accept wildcard characters: False
 Prompts you for confirmation before running the cmdlet.
 
 ```yaml
-Type: SwitchParameter
+Type: String.String
 Parameter Sets: (All)
 Aliases: cf
 
