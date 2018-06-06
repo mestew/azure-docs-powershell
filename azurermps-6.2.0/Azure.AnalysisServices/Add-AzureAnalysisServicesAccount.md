@@ -181,7 +181,7 @@ Accept wildcard characters: False
 Prompts you for confirmation before running the cmdlet.
 
 ```yaml
-Type: String.String
+Type: System.String
 Parameter Sets: (All)
 Aliases: cf
 
