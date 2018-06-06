@@ -129,8 +129,10 @@
         },
         "dest": "azureps",
         "xref": [
-            "./dotnet-xref/_zip/dotnet.zip",
-             "https://xref.docs.microsoft.com/query?uid={uid}"                 
+            "./dotnet-xref/_zip/dotnet.zip"                          
+        ],
+        "xrefservice":[
+            "https://xref.docs.microsoft.com/query?uid={uid}"   
         ],
         "lruSize": 0
     }
