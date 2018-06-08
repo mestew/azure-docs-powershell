@@ -218,7 +218,7 @@ This cmdlet does not accept any input.
 
 ## OUTPUTS
 
-[Microsoft.Azure.Commands.AnalysisServices.Dataplane.AsAzureProfile](xref:Microsoft.Azure.Commands.AnalysisServices.Dataplane.AsAzureProfile)
+### Microsoft.Azure.Commands.AnalysisServices.Dataplane.AsAzureProfile
 
 ## NOTES
 Alias: Login-AzureAsAccount
