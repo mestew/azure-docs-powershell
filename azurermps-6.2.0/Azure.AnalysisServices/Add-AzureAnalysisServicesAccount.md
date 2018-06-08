@@ -166,7 +166,7 @@ Accept wildcard characters: False
 Tenant name or ID
 
 ```yaml
-Type: Microsoft.Azure.Commands.AnalysisServices.Dataplane.AsAzureProfile
+Type: System.Management.Automation.PSVariable
 Parameter Sets: ServicePrincipalWithPasswordParameterSetName, ServicePrincipalWithCertificateParameterSetName
 Aliases: 
 
