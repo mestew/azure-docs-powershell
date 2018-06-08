@@ -128,10 +128,7 @@
             "ms.devlang": "powershell"
         },
         "dest": "azureps",
-        "xref": [
-            "./dotnet-xref/_zip/dotnet.zip"                          
-        ],
-        "xrefservice":[
+            "xrefservice":[
             "https://xref.docs.microsoft.com/query?uid={uid}"   
         ],
         "lruSize": 0
