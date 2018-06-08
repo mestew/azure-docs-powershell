@@ -67,7 +67,7 @@ This example will add the application service principal account specified by the
 The application ID.
 
 ```yaml
-Type: String
+Type: System.String
 Parameter Sets: ServicePrincipalWithCertificateParameterSetName
 Aliases: 
 
@@ -82,7 +82,7 @@ Accept wildcard characters: False
 Certificate Hash (Thumbprint)
 
 ```yaml
-Type: String
+Type: System.Management.Automation.PSVariable
 Parameter Sets: ServicePrincipalWithCertificateParameterSetName
 Aliases: 
 
